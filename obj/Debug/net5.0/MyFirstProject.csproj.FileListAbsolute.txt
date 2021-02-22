@@ -1,0 +1,16 @@
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\MyFirstProject.exe
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\MyFirstProject.deps.json
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.json
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.dev.json
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\MyFirstProject.dll
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\Aivar\MyFirstProject\bin\Debug\net5.0\MyFirstProject.pdb
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.dll
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.pdb
+C:\Users\Aivar\MyFirstProject\obj\Debug\net5.0\MyFirstProject.genruntimeconfig.cache
